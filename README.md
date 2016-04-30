@@ -4,7 +4,9 @@ Warning:  This program will delete files from the file folder in your phpfox ins
 
 It will also make changes to your database, if you select "Fix", that will make photo attachments into regular attachments.  For this reason, it would be wise to have a database backup before using this option.
 
-To install, move the warbucks directory to your phpfox's root directory.  Run the program by pointing your browser at http://yourdomain.ext/warbucks.  
+To install, move the warbucks directory to your phpfox's root directory.  Run the program by pointing your browser at http://yourdomain.ext/warbucks.
+
+DO NOT leave this directory on your site.  Delete it when you are finished.  It is not secure and could be used for mischief.
 
 If you wish to convert photo attachments to regular attachments, click on the "Fix" button.  This will work without further dialog and report it's results.
 
